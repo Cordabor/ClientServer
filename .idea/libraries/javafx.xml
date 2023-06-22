@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../Idea JARS/javafx-sdk-19.0.2.1/legal/javafx.web" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
